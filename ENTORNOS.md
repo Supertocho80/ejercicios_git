@@ -1,1 +1,1 @@
-Hola a todos
+Reseteo el archivo.
